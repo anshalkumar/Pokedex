@@ -30,6 +30,10 @@ async function fetchPokemonDataBeforeRedirect(id) {
   }
 }
 
+
+
+
+
 function displayPokemons(pokemon) {
   listWrapper.innerHTML = "";
 

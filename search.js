@@ -8,6 +8,8 @@ inputElement.addEventListener("input", () => {
 search_icon.addEventListener("click", handleSearchCloseOnClick);
 sort_wrapper.addEventListener("click", handleSortIconOnClick);
 
+
+
 function handleInputChange(inputElement) {
   const inputValue = inputElement.value;
 
